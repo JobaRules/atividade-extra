@@ -1,0 +1,11 @@
+
+# Ignorar arquivos de sistema do macOS e arquivos de ambiente
+/.DS_Store
+
+.*
+*
+!.gitignore
+!index.html
+!styles.css
+!script.js
+!README.md
