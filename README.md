@@ -1,4 +1,4 @@
-# Rafael Rosa da Maia
+# Rafael Maia
 ### Desenvolvedor Backend & Pesquisador
 
 Olá! Sou um desenvolvedor residente em Florianópolis - SC. Com formação em **Jogos Digitais** pela UNIVALI, hoje foco na construção de APIs e automação de processos, transitando do Python para tecnologias como Rust e Node.js.
