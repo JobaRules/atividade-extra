@@ -1,3 +1,53 @@
+#Rafael Rosa da Maia
+##Desenvolvedor Backend & Pesquisador
+
+Olá! Sou um desenvolvedor residente em Florianópolis - SC, com sólida base acadêmica em Jogos Digitais e experiência em Pesquisa Científica (CNPq). Atualmente, foco no desenvolvimento de APIs robustas e arquitetura de sistemas escaláveis.
+
+#🛠️ Habilidades Técnicas
+**Linguagens:** Python, Node.js, Rust (estudando), JavaScript (Vanilla).
+
+**Backend:** Construção de APIs, Integração com SQLite.
+
+**Automação:** Web Scraping e automação de processos financeiros/jurídicos com Python.
+
+**Outros:** Desenvolvimento de Jogos, Modelagem 3D, Criptografia e Privacidade em Nuvem.
+
+#🚀 Experiência Profissional
+##Freelance (Escritório Jurídico) | Atual
+
+Desenvolvimento de APIs e automação de tarefas repetitivas.
+
+Refatoração de sistemas para Node.js e Rust visando escalabilidade.
+
+##Editora IBPEX | 2017
+
+Gamificação de obras infantis e produção de material didático digital.
+
+##Pesquisador CNPq | 2013 - 2014
+
+Pesquisa em ferramentas criptográficas para gestão de identidades em Cloud Computing.
+
+##Desenvolvedor 3D - 4Vision Lab (UNIVALI) | 2013 - 2015
+
+Criação de ferramentas 3D durante a graduação em Jogos Digitais.
+
+#🏗️ Sobre este Portfólio
+Este projeto foi construído com uma arquitetura estática de alta performance.
+
+##Diferenciais Técnicos:
+
+**Zero Backend:** Não utiliza uma API tradicional para os dados, reduzindo latência e custo de hospedagem.
+
+**Renderização Dinâmica:** O front-end utiliza Vanilla JS para buscar este arquivo README.md e renderizá-lo em tempo real usando a biblioteca marked.js.
+
+**Manutenção Facilitada:** Atualizo meu portfólio apenas editando este arquivo Markdown.
+
+#📫 Contato
+**Email:** rafaelmaia@bsd.com.br
+
+**Telefone:** (48) 98834-6786
+
+**Localização:** Florianópolis, SC
 
 ## Meus Projetos
 
