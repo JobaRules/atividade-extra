@@ -41,3 +41,12 @@
 [Ver Repositório no GitHub](https://github.com/JobaRules/)
 
 </article>
+<br>
+<article>
+
+### 🦀 atividade-extra
+**Descrição:** Ferramenta de linha de comando em Rust para baixar playlists do YouTube na melhor resolução disponível. Projeto de aprendizado para Rust, desenvolvimento em linha de comando e GitHub.
+**Tecnologias:** Rust, yt-dlp
+[Ver Repositório no GitHub](https://github.com/JobaRules/atividade-extra)
+
+</article>
