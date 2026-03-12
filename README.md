@@ -1,8 +1,9 @@
 
 ##  Meus Projetos
 ### [Rafael Maia | Projetos e Experiência](https://jobarules.github.io/atividade-extra)
-
-
+<br>
+<article>
+  
 ### 🦀 rust-web-scraper
 **Descrição:** Web scraper em Rust que consulta o Bing e retorna, em JSON, os 10 primeiros títulos para um termo de busca informado pelo usuário. Projeto de estudo para prática de backend e parsing de HTML.
 **Tecnologias:** Rust, reqwest, scraper.
