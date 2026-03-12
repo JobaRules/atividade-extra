@@ -1,51 +1,43 @@
-# Rafael Maia
-### Desenvolvedor Backend & Pesquisador
 
-Olá! Sou um desenvolvedor residente em Florianópolis - SC. Com formação em **Jogos Digitais** pela UNIVALI, hoje foco na construção de APIs e automação de processos, transitando do Python para tecnologias como Rust e Node.js.
+##  Meus Projetos
 
----
+<article>
 
-## 🛠️ Habilidades Técnicas
+### 🦀 rust-web-scraper
+**Descrição:** Web scraper em Rust que consulta o Bing e retorna, em JSON, os 10 primeiros títulos para um termo de busca informado pelo usuário. Projeto de estudo para prática de backend e parsing de HTML.
+**Tecnologias:** Rust, reqwest, scraper.
+<br>
+[Ver Repositório no GitHub](https://github.com/JobaRules/rust-web-scraper)
 
-* **Linguagens:** Python (Automação e Web Scraping), Node.js (APIs com SQLite), Rust (nível básico/estudante).
-* **Especialidades:** Desenvolvimento de APIs, Arquitetura Backend e Jogos Digitais.
-* **Experiência Acadêmica:** Pesquisa em criptografia e privacidade em nuvem (CNPq).
+</article>
+<br>
+<article>
 
----
+### ⚙️ api-default-rust
+**Descrição:** API REST em Rust com Axum, SQLx e MySQL, baseada em Clean Architecture. Inclui autenticação JWT, hashing de senhas com bcrypt, CRUD de usuários e posts, e migrações automáticas.
+**Tecnologias:** Rust, Axum, Tokio, SQLx, MySQL, Serde, JWT, bcrypt, Tracing.
+<br>
+[Ver Repositório no GitHub](https://github.com/JobaRules/api-default-rust)
 
-## 🚀 Experiência Profissional
+</article>
+<br>
+<article>
 
-### Desenvolvedor Backend - Freelance (Escritório Jurídico)
-* **Período:** Atual.
-* **Foco:** Construção de APIs e automação de cálculos financeiros utilizando Python e Web Scraping.
-* **Evolução:** Refatoração de soluções existentes para Node.js e Rust visando escalabilidade.
+### 🚀 api-clean-solid-node
+**Descrição:** API REST em Node.js + TypeScript com foco em Clean Architecture e e boas práticas de SOLID. Inclui autenticação JWT, gerenciamento de usuários e persistência em MySQL via Prisma.
+**Tecnologias:** Node.js, TypeScript, Express, Prisma, MySQL, JWT, bcryptjs.
+<br>
+[Ver Repositório no GitHub](https://github.com/JobaRules/api-clean-solid-node)
 
-### Desenvolvedor - Editora IBPEX
-* **Período:** 2017.
-* **Atividades:** Produção de material didático para educação infantil com foco em gamificação.
+</article>
+<br>
 
-### Pesquisador - CNPq
-* **Período:** 2013 – 2014.
-* **Projeto:** Pesquisa sobre ferramentas criptográficas para privacidade em sistemas de gestão de identidades em nuvem.
+<article>
 
-### Desenvolvedor 3D - 4Vision Lab (UNIVALI)
-* **Período:** 2013 – 2015.
-* **Atividades:** Desenvolvimento de ferramentas 3D durante a graduação.
+### 🦀🐍 Automação Jurídica (Em Migração)
+**Descrição:** Automação de cálculos financeiros e extração de dados para o setor jurídico. Originalmente desenvolvido em Python para otimizar o fluxo de trabalho do escritório, atualmente em processo de reescrita e migração para Rust, visando explorar maior performance e segurança.
+**Tecnologias:** Python, Rust
+<br>
+[Ver Repositório no GitHub](https://github.com/JobaRules/)
 
----
-
-## 🏗️ Sobre a Arquitetura deste Portfólio
-
-Este projeto utiliza uma **arquitetura estática** focada em performance e simplicidade:
-
-1.  **Front-end:** HTML5 e CSS3 puro (Vanilla).
-2.  **Motor de Conteúdo:** JavaScript consome este arquivo `README.md` via API Fetch.
-3.  **Renderização:** Utiliza a biblioteca `marked.js` para converter Markdown em HTML dinamicamente.
-
----
-
-## 📫 Contato
-
-* **E-mail:** [rafaelmaia@bsd.com.br](mailto:rafaelmaia@bsd.com.br)
-* **Localização:** Florianópolis, SC
-* **GitHub:** [JobaRules](https://github.com/JobaRules)
+</article>
